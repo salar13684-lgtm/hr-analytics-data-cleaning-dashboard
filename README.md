@@ -1,10 +1,6 @@
 # hr-analytics-data-cleaning-dashboard
 End-to-end HR Analytics project using Python (Pandas) and Excel featuring data cleaning, feature engineering, analysis, pivot tables, and an interactive dashboard
 
-# HR Analytics Data Cleaning & Dashboard
-
-An end-to-end HR Analytics project that demonstrates real-world data cleaning, preprocessing, feature engineering, analysis, and dashboard creation using Python (Pandas) and Microsoft Excel.
-
 This project transforms a messy employee dataset into clean, analysis-ready data and presents key business insights through an interactive Excel dashboard.
 
 ---
